@@ -1,7 +1,11 @@
 # HIT 计算机网络期末考试复习指南（2025 秋）
 
 2025 年哈工大秋季《计算机网络》期末考试说明，附带复习资料  
-（适用于后续同学参考使用）
+>**推荐两个复习网站：**
+>https://www.csgraduates.com/computer_network/
+>https://www.xit.edu.cn/yjsfk/kyzykwtkw/list.htm
+
+
 
 ---
 
